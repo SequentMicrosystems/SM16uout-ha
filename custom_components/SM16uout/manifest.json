@@ -1,0 +1,13 @@
+{
+	"domain": "SM16uout",
+	"name": "Sequent Microsystems Sixteen 0-10V Analog Outputs Integration",
+	"version": "1.0.0",
+	"integration_type": "device",
+	"documentation": "https://github.com/SequentMicrosystems/SM16uout-ha",
+	"issue_tracker": "https://github.com/SequentMicrosystems/SM16uout-ha",
+	"dependencies": [],
+	"after_dependencies": [],
+	"codeownders": ["3lv"],
+	"config_flow": false,
+	"requirements": ["SM16uout>=1.0.0"]
+}
